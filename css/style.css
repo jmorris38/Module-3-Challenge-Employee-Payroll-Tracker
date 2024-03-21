@@ -115,7 +115,7 @@ button[disabled] {
   float: right;
 }
 
-
+/* Media query for responsive button */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
